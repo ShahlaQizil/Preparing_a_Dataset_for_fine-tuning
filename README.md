@@ -1,4 +1,4 @@
-# Patient Feedback Sentiment Analysis (BERT Fine-Tuning)
+# Preparing a Dataset for fine-tuning & Healthcare Sentiment Analysis BERT
 
 This project uses the **Cleveland Clinic Patients Feedback** dataset to fine-tune a BERT-base model for 3-class sentiment classification (Positive, Neutral, Negative).
 
